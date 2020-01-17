@@ -1,3 +1,3 @@
 # mihailo198
 
-Dodali smo dokumentaciju
+Dodali smo dokumentaciju.
